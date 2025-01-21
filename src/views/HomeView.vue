@@ -40,13 +40,20 @@
         </p>
         <p class="text-lg lg:text-xl">
           If what we’ve shared resonates with you, we’d love for you to join our community. Connect
-          with like-minded creators, visionaries, and innovators on our Discord. Together, let’s
-          shape the future of decentralized creativity.
+          with like-minded creators, visionaries, and innovators on our Discord or explore our
+          projects on GitHub. Together, let’s shape the future of decentralized creativity.
           <a
             href="https://discord.gg/VB2cWwnrmM"
             target="_blank"
             class="text-blue-500 hover:underline"
             >Join us on Discord</a
+          >
+          |
+          <a
+            href="https://github.com/obliqueparadigm"
+            target="_blank"
+            class="text-blue-500 hover:underline"
+            >Explore our GitHub</a
           >.
         </p>
       </div>
